@@ -1,0 +1,8 @@
+.ultra-wrapper {
+    overflow: hidden;
+}
+
+.ultra-row,
+.ultra-slide {
+    float: left;
+}
